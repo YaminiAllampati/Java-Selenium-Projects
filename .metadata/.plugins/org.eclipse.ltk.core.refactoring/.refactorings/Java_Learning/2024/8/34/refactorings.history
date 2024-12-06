@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;oopsConcept.InterfaceConcept&apos; to &apos;MultiLevelInheritenceUsingInterfaceConcept&apos;&#x0D;&#x0A;- Original project: &apos;Java_Learning&apos;&#x0D;&#x0A;- Original element: &apos;oopsConcept.InterfaceConcept&apos;&#x0D;&#x0A;- Renamed element: &apos;oopsConcept.MultiLevelInheritenceUsingInterfaceConcept&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;InterfaceConcept&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;oopsConcept{InterfaceConcept.java[InterfaceConcept" matchStrategy="1" name="MultiLevelInheritenceUsingInterfaceConcept" qualified="false" references="true" similarDeclarations="false" stamp="1724159949855" textual="false" version="1.0"/>
+</session>

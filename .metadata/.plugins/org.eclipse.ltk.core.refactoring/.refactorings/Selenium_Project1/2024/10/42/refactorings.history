@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;testNG_Package.Disbale_test&apos; to &apos;Disable_test&apos;&#x0D;&#x0A;- Original project: &apos;Selenium_Project1&apos;&#x0D;&#x0A;- Original element: &apos;testNG_Package.Disbale_test&apos;&#x0D;&#x0A;- Renamed element: &apos;testNG_Package.Disable_test&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Disbale_test&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;testNG_Package{Disbale_test.java[Disbale_test" matchStrategy="1" name="Disable_test" qualified="false" references="true" similarDeclarations="false" stamp="1729140172125" textual="false" version="1.0"/>
+</session>
